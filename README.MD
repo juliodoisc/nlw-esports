@@ -1,4 +1,4 @@
-# NWL eSports
+# NLW eSports
 
 > Trilha Explorer
 
